@@ -13,3 +13,6 @@
 .button:hover{
     background: #417400;
 }
+.fullwidth{
+    width: 100%;
+}
