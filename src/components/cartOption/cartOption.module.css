@@ -17,10 +17,14 @@
     color: #beeb14;
 }
 .remove{
-    color: #f00;
+    color: rgb(250, 141, 141);
     font-size: 12px;
     font-style: italic;
-    cursor: pointer
+    cursor: pointer;
+}
+
+.remove:hover{
+    color: #e0cece;
 }
 .image{
     object-fit: contain;
